@@ -10,6 +10,7 @@ box-sizing: border-box;
 
 body {
 background: #eee;
+background: black;
 transform: translate3d(0,0,0);
 }
 
